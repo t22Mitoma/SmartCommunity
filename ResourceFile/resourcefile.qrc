@@ -1,0 +1,11 @@
+<RCC>
+    <qresource prefix="/">
+        <file>background2.png</file>
+        <file>adminlogin.png</file>
+        <file>111.png</file>
+        <file>1111.png</file>
+        <file>background1.png</file>
+        <file>logo.png</file>
+        <file>style.qss</file>
+    </qresource>
+</RCC>
